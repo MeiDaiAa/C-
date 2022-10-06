@@ -1,0 +1,6 @@
+# include<stdio.h>
+int main()
+{
+	printf("¡Œº—”Ó");
+		return 0;
+}
